@@ -44,7 +44,8 @@ I enjoy building scalable architectures, clean interfaces, and systems that solv
 - Testing: Jest, Cypress, Mocha, Chai
 - Servers: Linux/Ubuntu, Nginx, Cloudflare
 
-## 🔗 Links
+## 📫 Contact
+Reach out to me via:
 
-- 🌐 Linkedin: https://www.linkedin.com/in/lam-pham-838558334
-- 🐦 X / Twitter: https://x.com/tonypham_me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lam-pham-838558334)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tonypham_me)
